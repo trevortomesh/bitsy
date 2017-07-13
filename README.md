@@ -20,3 +20,5 @@ $git clone https://github.com/le-doux/bitsy.git
 Open the bitsy repository and open editor.html in a browser
 
 ![img](http://i.imgur.com/PCIkvUi.png)
+
+Test!
